@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "jWCn8mNnK1HSZmwORfR4k7PQtN4lWd2vOJ2bB4EbsSn0vEtF0MpSQwCvRNgNxrmmDmowhYrVsPMpzw2F9xUGSw==",
+  "dgSpecHash": "fifLp6+iabSX6PulCUq5Nae2ddUfXRHErqp9okIAsZfiXdq6rDTZfeWLQ4jqv2RhLrFRtcIPieBKTNsDdWiTGw==",
   "success": true,
-  "projectFilePath": "/Users/stevenlegere/Documents/Development/Repositories/PracticeCode/stevesPlayground/CodeBlocksVariableScope/CodeBlocksVariableScope.csproj",
+  "projectFilePath": "/Users/stevenlegere/Documents/Development/Repositories/PracticeCode/stevesPlayground/CodeBlocksVariableScope/CodeBlocksVariableScope/CodeBlocksVariableScope.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

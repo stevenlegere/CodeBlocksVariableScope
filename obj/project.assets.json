@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/stevenlegere/Documents/Development/Repositories/PracticeCode/stevesPlayground/CodeBlocksVariableScope/CodeBlocksVariableScope.csproj",
+      "projectUniqueName": "/Users/stevenlegere/Documents/Development/Repositories/PracticeCode/stevesPlayground/CodeBlocksVariableScope/CodeBlocksVariableScope/CodeBlocksVariableScope.csproj",
       "projectName": "CodeBlocksVariableScope",
-      "projectPath": "/Users/stevenlegere/Documents/Development/Repositories/PracticeCode/stevesPlayground/CodeBlocksVariableScope/CodeBlocksVariableScope.csproj",
+      "projectPath": "/Users/stevenlegere/Documents/Development/Repositories/PracticeCode/stevesPlayground/CodeBlocksVariableScope/CodeBlocksVariableScope/CodeBlocksVariableScope.csproj",
       "packagesPath": "/Users/stevenlegere/.nuget/packages/",
-      "outputPath": "/Users/stevenlegere/Documents/Development/Repositories/PracticeCode/stevesPlayground/CodeBlocksVariableScope/obj/",
+      "outputPath": "/Users/stevenlegere/Documents/Development/Repositories/PracticeCode/stevesPlayground/CodeBlocksVariableScope/CodeBlocksVariableScope/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/stevenlegere/.nuget/NuGet/NuGet.Config"
